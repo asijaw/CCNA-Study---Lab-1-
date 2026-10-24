@@ -1,4 +1,4 @@
-# CCNA-Study---Lab-1-
+# CCNA-Study---Lab-1
 <h1>Lab 1 - Network devices</h1>
 
 <h2>LAB INSTRUCTIONS:</h2>
